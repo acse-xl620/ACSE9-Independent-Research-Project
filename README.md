@@ -11,9 +11,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
+      <a href="#prerequisites">Prerequisites</a>
     </li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
