@@ -64,8 +64,7 @@ The data set path needs to be modified according to the actual situation.
 
 ## Reproduction of reported results
 
-Since the compression and prediction models need to be trained for a long time, the trained model is also uploaded to the "model" folder. The training set is also uploaded to the "dataset" folder. 
-If you need more data for For training and testing, you can download the generated data .py file from "preprocessing". If the required VTKtools does not match, please contact me.
+Since the compression and prediction models need to be trained for a long time, the trained model is also uploaded to the "model" folder. Because the data set is too large to upload to github, only a part of the vtu file is included as an example in the test folder. You can generate the data set for training through the .py file in the preprocessing folder. If you need a complete test vtu data, please contact me.
 
 ## Contact
 
